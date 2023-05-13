@@ -1,2 +1,2 @@
 # ANS-Ejercicios :computer:
-Análisis numérico-Erjericios con python :snake: 
+Análisis numérico-Ejericios con python :snake: 
